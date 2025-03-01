@@ -1,3 +1,4 @@
-# hack3rman.github.io
+# The story embedded
 
-small modification to test git 
+How to create a build system for armhf
+[link](01-buildSystem.html)
